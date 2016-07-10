@@ -1,6 +1,6 @@
 # 69° PDF Merge
 
-![Screenshot](screenshot "Screenshot")
+![Screenshot](screenshot.png "Screenshot")
 
 ## What does it do?
 
